@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Norah-alshehri
-- 👀 I’m interested in Analsis and Security 
+- 👀 I’m interested in Analysis and Security 
 - 🌱 I’m currently learning Full-Stack Development
 - 💞️ I’m looking to collaborate on python projects
 - 📫 reach me: great.studentno@gmail.com
